@@ -1,0 +1,42 @@
+{   
+    "url" : "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+    
+    "buttonText": {
+        "Cust" : "Customer Login",
+        "Mgr" : "Bank Manager Login"
+    },
+    "custIndex": {
+        "a" : 0,
+        "b" : 1,
+        "c" : 2,
+        "d" : 3,
+        "e" : 4,
+        "f" : 5
+    },
+    "cusDe": {
+        "fN" : "Saro",
+        "lN" : "Pottu",
+        "pC" : 30339
+    },
+    "accSel" : {
+        "a" : 0,
+        "b" : 1,
+        "c" : 2
+    },
+
+    "currency": {
+        "a" : "Dollar",
+        "b" : "Pound",
+        "c" : "Rupee"
+    },
+    "amount" : {
+        "a" : 2000,
+        "b" : 1000,
+        "c" : 2001
+    },
+    "sleep" : {
+        "a" : 0
+    }
+
+
+}
